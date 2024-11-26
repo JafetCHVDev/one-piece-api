@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Monkey D. Luffy",
+      "role": "Captain",
+      "devil_fruit": "Gomu Gomu no Mi",
+      "image": "https://i.pinimg.com/originals/b5/ca/53/b5ca538898cbec325f3c6f2c5aa5fa83.png"
+    },
+    {
+      "id": 2,
+      "name": "Roronoa Zoro",
+      "role": "Swordsman",
+      "devil_fruit": "None",
+      "image": "https://w7.pngwing.com/pngs/963/291/png-transparent-one-piece-roronoa-zoro-roronoa-zoro-monkey-d-luffy-dracule-mihawk-one-piece-action-toy-figures-zoro-manga-piracy-cartoon-thumbnail.png"
+    },
+    {
+      "id": 3,
+      "name": "Nami",
+      "role": "Navigator",
+      "devil_fruit": "None",
+      "image": "https://w7.pngwing.com/pngs/509/184/png-transparent-one-piece-nami-illustration-one-piece-unlimited-world-red-nami-monkey-d-luffy-usopp-roronoa-zoro-one-piece-game-fictional-character-cartoon-thumbnail.png"
+    },
+    {
+      "id": 4,
+      "name": "Sanji",
+      "role": "Chef",
+      "devil_fruit": "None",
+      "image": "https://w7.pngwing.com/pngs/105/765/png-transparent-vinsmoke-sanji-monkey-d-luffy-roronoa-zoro-one-piece-unlimited-world-red-one-piece-manga-chibi-fictional-character.png"
+    },
+    {
+      "id": 5,
+      "name": "Tony Tony Chopper",
+      "role": "Doctor",
+      "devil_fruit": "Hito Hito no Mi",
+      "image": "https://e7.pngegg.com/pngimages/435/790/png-clipart-tony-tony-chopper-illustration-tony-tony-chopper-cute-chopper-monkey-d-luffy-franky-one-piece-unlimited-adventure-one-piece-mammal-manga-thumbnail.png"
+    },
+    {
+      "id": 6,
+      "name": "Nico Robin",
+      "role": "Archaeologist",
+      "devil_fruit": "Hana Hana no Mi",
+      "image": "https://e7.pngegg.com/pngimages/21/55/png-clipart-nico-robin-monkey-d-luffy-one-piece-jp-nami-usopp-one-piece-black-hair-manga.png"
+    },
+    {
+      "id": 7,
+      "name": "Franky",
+      "role": "Shipwright",
+      "devil_fruit": "None",
+      "image": "https://w7.pngwing.com/pngs/532/104/png-transparent-one-piece-cyborg-frankie-franky-one-piece-unlimited-world-red-one-piece-pirate-warriors-3-one-piece-piracy-cartoon-fictional-character.png"
+    },
+    {
+      "id": 8,
+      "name": "Brook",
+      "role": "Musician",
+      "devil_fruit": "Yomi Yomi no Mi",
+      "image": "https://e7.pngegg.com/pngimages/976/101/png-clipart-brook-roronoa-zoro-nami-monkey-d-luffy-one-piece-one-piece-piracy-fictional-character-thumbnail.png"
+    },
+    {
+      "id": 9,
+      "name": "Jinbe",
+      "role": "Helmsman",
+      "devil_fruit": "None",
+      "image": "https://w7.pngwing.com/pngs/434/480/png-transparent-monkey-d-luffy-nami-jinbe-one-piece-big-mom-pirates-strawhat-pirate-orange-piracy-protective-gear-in-sports-thumbnail.png"
+    }
+  ]
+}
